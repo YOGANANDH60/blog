@@ -1,2 +1,7 @@
-username:yoga
-admin pass:test123
+development admin
+    username:  yoga
+    admin pass:test@132005
+
+deployment admin
+    username:yoganandh
+    admin pass:yoga@132005
